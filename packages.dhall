@@ -69,7 +69,7 @@
 , nonbili-halogen =
     { dependencies = [ "halogen" ]
     , repo = "https://github.com/nonbili/purescript-nonbili-halogen.git"
-    , version = "v0.1.0"
+    , version = "v0.2.0"
     }
 , nonbili-nodejs =
     { dependencies = [ "effect", "aff", "aff-promise" ]

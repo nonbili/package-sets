@@ -4,7 +4,11 @@ A collection of Nonbili PureScript packages.
 
 ## Usage
 
-Import Nonbili package-sets in your local `packages.dhall`
+Include Nonbili package-sets in your local `packages.dhall`, `let nonbili = https://raw.githubusercontent.com/nonbili/package-sets/<commit-hash>/packages.dhall`, remember to use the latest commit hash.
+
+## Example
+
+Example `package.dhall`
 
 ```dhall
 let upstream =
