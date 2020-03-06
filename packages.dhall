@@ -6,7 +6,7 @@
 , css-validate =
     { dependencies = [ "functions", "exceptions" ]
     , repo = "https://github.com/nonbili/purescript-css-validate.git"
-    , version = "v0.5.0"
+    , version = "v0.6.0"
     }
 , halogen-color-picker =
     { dependencies = [ "halogen", "numbers", "colors" ]
@@ -21,7 +21,7 @@
 , jest =
     { dependencies = [ "effect", "aff", "aff-promise" ]
     , repo = "https://github.com/nonbili/purescript-jest.git"
-    , version = "v0.3.0"
+    , version = "v0.4.0"
     }
 , markdown-it =
     { dependencies = [ "effect", "options" ]
@@ -59,12 +59,12 @@
       , "tuples"
       ]
     , repo = "https://github.com/nonbili/purescript-nonbili.git"
-    , version = "v0.1.0"
+    , version = "v0.1.1"
     }
 , nonbili-dom =
     { dependencies = [ "effect", "web-dom", "web-html" ]
     , repo = "https://github.com/nonbili/purescript-nonbili-dom.git"
-    , version = "v0.2.0"
+    , version = "v0.3.0"
     }
 , nonbili-halogen =
     { dependencies = [ "halogen" ]
