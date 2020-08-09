@@ -4,21 +4,23 @@ A collection of Nonbili PureScript packages.
 
 ## Included packages
 
-- css-properties [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-css-properties)](https://github.com/nonbili/purescript-css-properties/releases)
-- css-validate [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-css-validate)](https://github.com/nonbili/purescript-css-validate/releases)
-- halogen-color-picker [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-halogen-color-picker)](https://github.com/nonbili/purescript-halogen-color-picker/releases)
-- halogen-nselect [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-halogen-nselect)](https://github.com/nonbili/purescript-nselect/releases)
-- jest [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-jest)](https://github.com/nonbili/purescript-jest/releases)
-- markdown-it [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-markdown-it)](https://github.com/nonbili/purescript-markdown-it/releases)
-- markdown-it-halogen [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-markdown-it-halogen)](https://github.com/nonbili/purescript-markdown-it-halogen/releases)
-- msgpack-msgpack [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-msgpack-msgpack)](https://github.com/nonbili/purescript-msgpack-msgpack/releases)
-- node-fs-extra [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-node-fs-extra)](https://github.com/nonbili/purescript-node-fs-extra/releases)
-- nonbili [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili)](https://github.com/nonbili/purescript-nonbili/releases)
-- nonbili-dom [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-dom)](https://github.com/nonbili/purescript-nonbili-dom/releases)
-- nonbili-halogen [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-halogen)](https://github.com/nonbili/purescript-nonbili-halogen/releases)
-- nonbili-nodejs [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-nodejs)](https://github.com/nonbili/purescript-nonbili-nodejs/releases)
-- nonbili-postgres [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-postgres)](https://github.com/nonbili/purescript-nonbili-postgres/releases)
-- template-literals [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-template-literals)](https://github.com/nonbili/purescript-template-literals/releases)
+| Name | Latest release |
+| --- | --- |
+| css-properties | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-css-properties)](https://github.com/nonbili/purescript-css-properties/releases) |
+| css-validate | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-css-validate)](https://github.com/nonbili/purescript-css-validate/releases) |
+| halogen-color-picker | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-halogen-color-picker)](https://github.com/nonbili/purescript-halogen-color-picker/releases) |
+| halogen-nselect | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-halogen-nselect)](https://github.com/nonbili/purescript-halogen-nselect/releases) |
+| jest | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-jest)](https://github.com/nonbili/purescript-jest/releases) |
+| markdown-it | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-markdown-it)](https://github.com/nonbili/purescript-markdown-it/releases) |
+| markdown-it-halogen | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-markdown-it-halogen)](https://github.com/nonbili/purescript-markdown-it-halogen/releases) |
+| msgpack-msgpack | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-msgpack-msgpack)](https://github.com/nonbili/purescript-msgpack-msgpack/releases) |
+| node-fs-extra | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-node-fs-extra)](https://github.com/nonbili/purescript-node-fs-extra/releases) |
+| nonbili | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili)](https://github.com/nonbili/purescript-nonbili/releases) |
+| nonbili-dom | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-dom)](https://github.com/nonbili/purescript-nonbili-dom/releases) |
+| nonbili-halogen | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-halogen)](https://github.com/nonbili/purescript-nonbili-halogen/releases) |
+| nonbili-nodejs | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-nodejs)](https://github.com/nonbili/purescript-nonbili-nodejs/releases) |
+| nonbili-postgres | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-postgres)](https://github.com/nonbili/purescript-nonbili-postgres/releases) |
+| template-literals | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-template-literals)](https://github.com/nonbili/purescript-template-literals/releases) |
 
 ## Usage
 
