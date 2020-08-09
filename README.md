@@ -24,7 +24,7 @@ A collection of Nonbili PureScript packages.
 
 ## Usage
 
-Include Nonbili package-sets in your local `packages.dhall`, `let nonbili = https://raw.githubusercontent.com/nonbili/package-sets/<commit-hash>/packages.dhall`, remember to use the latest commit hash.
+Include Nonbili package-sets in your local `packages.dhall`, `let nonbili = https://github.com/nonbili/package-sets/releases/download/<release-version>/packages.dhall`, remember to use the latest release version.
 
 ## Example
 
@@ -35,7 +35,7 @@ let upstream =
       https://github.com/purescript/package-sets/releases/download/psc-0.13.6-20200127/packages.dhall sha256:06a623f48c49ea1c7675fdf47f81ddb02ae274558e29f511efae1df99ea92fb8
 
 let nonbili =
-      https://raw.githubusercontent.com/nonbili/package-sets/32e51ffcd422d47215a4f45daf81e00ecb88f6c7/packages.dhall sha256:6173950140ae242553491216661e138272d392b7ccd623c91a58b8cc9a825435
+      https://github.com/nonbili/package-sets/releases/download/v0.5/packages.dhall sha256:b6e243c12beb4c2b122f9ec23a5a1bd6910d92e382e0ff9ccea2af99560ce499
 
 let overrides = {=}
 
