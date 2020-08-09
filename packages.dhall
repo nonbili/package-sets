@@ -16,7 +16,7 @@
 , halogen-nselect =
     { dependencies = [ "halogen" ]
     , repo = "https://github.com/nonbili/purescript-halogen-nselect.git"
-    , version = "v1.0.0-rc.1"
+    , version = "v1.0.0-rc.2"
     }
 , jest =
     { dependencies = [ "effect", "aff", "aff-promise" ]
