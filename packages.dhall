@@ -23,6 +23,11 @@
     , repo = "https://github.com/nonbili/purescript-jest.git"
     , version = "v0.4.0"
     }
+, lit-html =
+    { dependencies = [ "argonaut-codecs", "web-dom" ]
+    , repo = "https://github.com/nonbili/purescript-lit-html.git"
+    , version = "v0.2.0"
+    }
 , markdown-it =
     { dependencies = [ "effect", "options" ]
     , repo = "https://github.com/nonbili/purescript-markdown-it.git"

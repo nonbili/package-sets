@@ -11,6 +11,7 @@ A collection of Nonbili PureScript packages.
 | halogen-color-picker | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-halogen-color-picker)](https://github.com/nonbili/purescript-halogen-color-picker/releases) |
 | halogen-nselect | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-halogen-nselect)](https://github.com/nonbili/purescript-halogen-nselect/releases) |
 | jest | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-jest)](https://github.com/nonbili/purescript-jest/releases) |
+| lit-html | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-lit-html)](https://github.com/nonbili/purescript-lit-html/releases) |
 | markdown-it | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-markdown-it)](https://github.com/nonbili/purescript-markdown-it/releases) |
 | markdown-it-halogen | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-markdown-it-halogen)](https://github.com/nonbili/purescript-markdown-it-halogen/releases) |
 | msgpack-msgpack | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-msgpack-msgpack)](https://github.com/nonbili/purescript-msgpack-msgpack/releases) |

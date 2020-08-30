@@ -5,6 +5,7 @@
   , "halogen-color-picker"
   , "halogen-nselect"
   , "jest"
+  , "lit-html"
   , "markdown-it"
   , "msgpack-msgpack"
   , "node-fs-extra"
