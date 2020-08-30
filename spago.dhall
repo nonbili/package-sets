@@ -13,6 +13,7 @@
   , "nonbili-halogen"
   , "nonbili-nodejs"
   , "nonbili-postgres"
+  , "tauri"
   , "template-literals"
   ]
 , packages = ./example.dhall

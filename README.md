@@ -21,6 +21,7 @@ A collection of Nonbili PureScript packages.
 | nonbili-halogen | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-halogen)](https://github.com/nonbili/purescript-nonbili-halogen/releases) |
 | nonbili-nodejs | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-nodejs)](https://github.com/nonbili/purescript-nonbili-nodejs/releases) |
 | nonbili-postgres | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-nonbili-postgres)](https://github.com/nonbili/purescript-nonbili-postgres/releases) |
+| tauri | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-tauri)](https://github.com/nonbili/purescript-tauri/releases) |
 | template-literals | [![GitHub release](https://badgen.net/github/tag/nonbili/purescript-template-literals)](https://github.com/nonbili/purescript-template-literals/releases) |
 
 ## Usage

@@ -86,6 +86,11 @@
     , repo = "https://github.com/nonbili/purescript-nonbili-postgres.git"
     , version = "v0.1.1"
     }
+, tauri =
+    { dependencies = [ "aff", "aff-promise", "argonaut-codecs", "effect" ]
+    , repo = "https://github.com/nonbili/purescript-tauri.git"
+    , version = "v0.1.0"
+    }
 , template-literals =
     { dependencies = [ "effect" ]
     , repo = "https://github.com/nonbili/purescript-template-literals.git"
