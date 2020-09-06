@@ -41,7 +41,7 @@
 , msgpack-msgpack =
     { dependencies = [ "arraybuffer-types", "argonaut-codecs", "exceptions" ]
     , repo = "https://github.com/nonbili/purescript-msgpack-msgpack.git"
-    , version = "v0.3.0"
+    , version = "v0.5.0"
     }
 , node-fs-extra =
     { dependencies = [ "node-path", "aff-promise", "node-buffer" ]
@@ -64,7 +64,7 @@
       , "tuples"
       ]
     , repo = "https://github.com/nonbili/purescript-nonbili.git"
-    , version = "v0.1.1"
+    , version = "v0.2.0"
     }
 , nonbili-dom =
     { dependencies = [ "effect", "web-dom", "web-html" ]
@@ -84,7 +84,7 @@
 , nonbili-postgres =
     { dependencies = [ "aff", "aff-promise", "argonaut-codecs", "effect" ]
     , repo = "https://github.com/nonbili/purescript-nonbili-postgres.git"
-    , version = "v0.1.1"
+    , version = "v0.2.0"
     }
 , tauri =
     { dependencies = [ "aff", "aff-promise", "argonaut-codecs", "effect" ]

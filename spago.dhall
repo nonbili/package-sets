@@ -9,6 +9,7 @@
   , "markdown-it"
   , "msgpack-msgpack"
   , "node-fs-extra"
+  , "nonbili"
   , "nonbili-dom"
   , "nonbili-halogen"
   , "nonbili-nodejs"
